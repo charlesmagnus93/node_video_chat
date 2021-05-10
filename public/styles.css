@@ -1,0 +1,14 @@
+.one {
+    background: whitesmoke;
+    height: 350px;
+    position: relative;
+}
+
+.two {
+    background: lightyellow;
+    /* width: 120px; */
+    float: right;
+    bottom: 0px;
+    position: absolute;
+    right: 0;
+}
